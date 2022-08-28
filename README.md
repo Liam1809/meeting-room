@@ -2,7 +2,7 @@
 
 ## A Full-stack CRUD react application created for everyone to group video and chat
 
-[](./assets/animated.gif)
+[](https://github.com/Liam1809/meeting-room/blob/master/assets/animated.gif)
 
 ## Ultilities:
 
@@ -10,9 +10,7 @@
 
 ### Admin:
 
-#### username: Admin
-
-#### password: admin123
+#### username: Admin password: admin123
 
 - CRUD room
 - invite guests via email
