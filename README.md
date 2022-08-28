@@ -64,3 +64,5 @@
 ## DEPLOYMENT
 - netlify & Heroku
 - [Meeting-room](https://liam-meeting-room.netlify.app)
+
+## ![GITLAB](https://gitlab.com/liam62/meeting-room/-/tree/develop)
