@@ -2,7 +2,7 @@
 
 ## A Full-stack CRUD react application created for everyone to group video and chat
 
-[](https://github.com/Liam1809/meeting-room/blob/master/assets/animated.gif)
+![](https://github.com/Liam1809/meeting-room/blob/master/assets/animated.gif)
 
 ## Ultilities:
 
