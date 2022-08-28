@@ -49,6 +49,18 @@
 
 - NoSQL MongoDB
 
+## HOW TO RUN
+
+### Clone / download repo
+
+### Split terminal
+
+### "cd client" and "cd server" each terminal
+
+### "npm i" each terminal
+
+### "npm start" each terminal
+
 ## DEPLOYMENT
 
 - [Meeting-room](https://liam-meeting-room.netlify.app)
