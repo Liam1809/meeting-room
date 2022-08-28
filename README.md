@@ -51,16 +51,16 @@
 
 ## HOW TO RUN
 
-### Clone / download repo
+#### Clone / download repo
 
-### Split terminal
+#### Split terminal
 
-### "cd client" and "cd server" each terminal
+#### "cd client" and "cd server" each terminal
 
-### "npm i" each terminal
+#### "npm i" each terminal
 
-### "npm start" each terminal
+#### "npm start" each terminal
 
 ## DEPLOYMENT
-
+- netlify & Heroku
 - [Meeting-room](https://liam-meeting-room.netlify.app)
