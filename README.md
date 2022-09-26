@@ -13,7 +13,7 @@
 #### username: Admin password: admin123
 
 - CRUD room
-- invite guests via email
+- invite guests via email (legit emails only)
 - set capacity per room
 
 ### Joiner:
